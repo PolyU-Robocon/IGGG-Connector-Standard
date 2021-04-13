@@ -7,5 +7,7 @@ molex micro fit 3.0 is used.
 
 ## CAN Bus using RJ45 (IGGG-cAN-RJ45)
 > Please follow the pinout! -- Leung, M.(2021)  
+
+
 ![image](https://user-images.githubusercontent.com/45313904/114553589-60ec6800-9c98-11eb-8ad2-a7183560f8a5.png)
 

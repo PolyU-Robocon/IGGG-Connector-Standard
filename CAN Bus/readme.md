@@ -15,6 +15,16 @@ molex micro fit 3.0 is used.
 
 
 ![image](https://user-images.githubusercontent.com/45313904/114553589-60ec6800-9c98-11eb-8ad2-a7183560f8a5.png)
+## CAN Bus to VESC (IGGG-cAN-VESC)
+***Normally***, JST PH with 2.0mm pitch 4 pin Connector is used     
+![image](https://user-images.githubusercontent.com/45313904/117435003-f0b3c800-af5f-11eb-9364-77ea9db8444c.png)
+![image](https://user-images.githubusercontent.com/45313904/117435311-4c7e5100-af60-11eb-908c-285dd6f57c5d.png)
+| Pin Number | Cable Color  | Twisted Pair | Signal   | Description             |
+|------------|--------------|--------------|----------|-------------------------|
+| 1          | Yellow(Red)  | Pair 1       | +5V DC   | 5VDC, up to you         |
+| 2          | White(Brown) | Pair 2       | CAN High | CAN bus CAN high signal |
+| 3          | Red(Blue)    | Pair 2       | CAN Low  | CAN bus CAN low signal  |
+| 4          | Black(Black) | Pair 1       | GND      | GND, up to you          |
 
 ## Note: About CAN Bus Signal
 ![image](https://user-images.githubusercontent.com/45313904/117434119-da593c80-af5e-11eb-868e-ab50f1c3080a.png)

@@ -3,7 +3,7 @@
 For most of application we will use XT60 connector for power(**12-36V power delivery**).  
 For example, EPOS Power Cable(Molex Mini-Fit Jr.TM connector) convert to  XT60.   
 Please noted that if you less than 12V you **are not recommend** to XT60
-> I mean you cannot use XT60 for application less 12V, For 5V use DC jack or USB , Leung, M. (2021)
+> I mean you cannot use XT60 for application that less than 12V. For 5V use DC jack or USB , Leung, M. (2021)
 
 
 ![HTB1dfP9QXXXXXasXXXXq6xXFXXXs](https://user-images.githubusercontent.com/45313904/114550172-7d86a100-9c94-11eb-863b-250fd783b190.jpg)   

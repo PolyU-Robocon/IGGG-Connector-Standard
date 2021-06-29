@@ -1,5 +1,6 @@
 # IGGG Power Standard
-
+* Power
+  * [IGGG-pW-24V](#XT60-Power-IGGG-pW-24V)  
 ## XT60 Power(IGGG-pW-24V)
 For most of application we will use XT60 connector for power(**12-36V power delivery**).  
 For example, EPOS Power Cable(Molex Mini-Fit Jr.TM connector) convert to  XT60.   

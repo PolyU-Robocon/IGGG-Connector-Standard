@@ -3,7 +3,7 @@ this repo is aims to provide the PCB connector standard for BullyU PCB design.
 
 PCB Enginer please follow this standard thz.
 
-If you do not understand P=IV,P=I2R,P=V2/R. This repo is not for you
+If you do not understand P=IV,P=I^2R,P=V^2/R. This repo is not for you
 
 ## Connector Standard cover the following area
 * [Power](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Power) (IGGG-pW-xxxx)

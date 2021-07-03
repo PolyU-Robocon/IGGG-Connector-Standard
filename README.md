@@ -11,4 +11,4 @@ PCB Enginer please follow this standard thz.
 * GPIO (plz follow RS485)
 
 # Somthing about Cable and Harness
-* [Insulated Crimp Terminal]()
+* [Insulated Crimp Terminal](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Insulated-Crimp-Terminal)

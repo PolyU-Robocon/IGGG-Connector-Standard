@@ -3,6 +3,8 @@ this repo is aims to provide the PCB connector standard for BullyU PCB design.
 
 PCB Enginer please follow this standard thz.
 
+If you do not under
+
 ## Connector Standard cover the following area
 * [Power](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Power) (IGGG-pW-xxxx)
 * [CAN bus](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/CAN%20Bus) (IGGG-cAN-xxxx)

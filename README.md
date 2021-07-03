@@ -10,4 +10,5 @@ PCB Enginer please follow this standard thz.
 * I2C (IGGG-I2CCC-xxxx)
 * GPIO (plz follow RS485)
 
-
+# Somthing about Cable and Harness
+* [Insulated Crimp Terminal]()

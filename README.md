@@ -15,4 +15,4 @@ If you do not under
 # Somthing about Cable and Harness
 * [Insulated Crimp Terminal](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Insulated-Crimp-Terminal)
 # Solder
-* [Solder]()
+* [Solder](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/solder)

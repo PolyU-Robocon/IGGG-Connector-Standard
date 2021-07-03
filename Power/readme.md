@@ -4,6 +4,13 @@
   * [IGGG-pW-EPOS](#epos-poweriggg-pw-epos)
   * [IGGG-pW-robotMaster](#Robot-Master-PowerIGGG-pW-robotMaster)
   * [IGGG-pW-ioLink](#IO-link-PowerIGGG-pW-IOlink)
+
+# Cable Color
+| Cable Color | Description    |
+|-------------|----------------|
+| Red         | Positive Power |
+| Black/Blue  | Ground         |
+
 ## XT60 Power(IGGG-pW-24V)
 For most of application we will use XT60 connector for power(**12-36V power delivery**).  
 For example, EPOS Power Cable(Molex Mini-Fit Jr.TM connector) convert to  XT60.   

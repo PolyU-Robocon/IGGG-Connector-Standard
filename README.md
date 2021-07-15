@@ -15,7 +15,7 @@ If you do not understand P=IV,P=I^2R,P=V^2/R. This repo is not for you
 # Somthing about Cable and Harness
 * [Cable Stripper]()
 * [Terminal crimper]()
-* [Extra about Connector]()
+* [Extra info Connector]()
 * [Insulated Crimp Terminal](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Insulated-Crimp-Terminal)
 # Somthing about Solder
 * [Solder](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/solder)

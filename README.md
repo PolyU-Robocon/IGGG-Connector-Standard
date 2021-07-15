@@ -13,6 +13,9 @@ If you do not understand P=IV,P=I^2R,P=V^2/R. This repo is not for you
 * [GPIO](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/RS485) (plz follow RS485)
 
 # Somthing about Cable and Harness
+* [Cable Stripper]()
+* [Terminal crimper]()
+* [Extra about Connector]()
 * [Insulated Crimp Terminal](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/Insulated-Crimp-Terminal)
 # Somthing about Solder
 * [Solder](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/solder)

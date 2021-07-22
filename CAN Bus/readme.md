@@ -10,12 +10,28 @@ molex micro fit 3.0 is used.
 | 2          | Green       | Pair 1         | CAN Low  | CAN bus CAN low signal                                                  |
 | 3          | Brown       | Doesn't Matter | CAN GND  | GND, normally does not connect to Devices  (unless start/ end of chain) |
 | 4          | Shield      | Doesn't Matter | Shield   | Shield, Really up to you                                                |
+
 ## CAN Bus using RJ45 (IGGG-cAN-RJ45)
 > Please follow the pinout! -- Leung, M.(2021)  
 
 
 ![image](https://user-images.githubusercontent.com/45313904/114553589-60ec6800-9c98-11eb-8ad2-a7183560f8a5.png)       
 The pinout follow the CANopen standard CiA-DS303-1
+| Bus   | Pin | Cable Color    | Description | Note                   |
+|-------|-----|----------------|-------------|------------------------|
+| CAN 1 | 1   | Orange & White | CAN High    |                        |
+| CAN 1 | 2   | Orange         | CAN Low     |                        |
+| GND   | 3   | Green & White  | PGND        |                        |
+| DC+   | 4   | Blue           | N.C         | use as VCC_H if needed |
+| DC+   | 5   | Blue & White   | N.C         | use as VCC if needed   |
+| GND   | 6   | Green          | Shield      | Optional               |
+| Power | 7   | Brown & White  | PGND        |                        |
+| Power | 8   | Brown          | (CAN_V+)    | Do not used this as V+ |
+### Recommended Symbol and Connection
+![image](https://user-images.githubusercontent.com/45313904/126659219-d5840bf2-c0bf-42d5-8317-7306908a9d56.png)
+
+
+
 ## CAN Bus to VESC4 (IGGG-cAN-VESC4)
 ![image](https://user-images.githubusercontent.com/45313904/125818491-0afa460d-7039-48d4-ae44-395cdfbe156e.png)   
 ***Normally***, JST PH with 2.0mm pitch 4 pin Connector is used     

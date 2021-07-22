@@ -20,4 +20,4 @@ If you do not understand P=IV,P=I^2R,P=V^2/R. This repo is not for you
 # Somthing about Solder
 * [Solder](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/solder)
 # Somthing about Earthing And Sheilid
-* [Sheild Connection]()
+* [Sheild Connection](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/tree/main/shield)

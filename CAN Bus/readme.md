@@ -30,7 +30,9 @@ The pinout follow the CANopen standard CiA-DS303-1
 ### Recommended Symbol and Connection
 ![image](https://user-images.githubusercontent.com/45313904/126659219-d5840bf2-c0bf-42d5-8317-7306908a9d56.png)
 
-
+## CAN Bus to AMTSeries (IGGG-cAN-AMT102-V)
+![AMT102](https://user-images.githubusercontent.com/77326918/126895644-7e0f812e-15d7-4f9d-a44f-4a4bb5efa7a7.png)
+Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
 
 ## CAN Bus to VESC4 (IGGG-cAN-VESC4)
 ![image](https://user-images.githubusercontent.com/45313904/125818491-0afa460d-7039-48d4-ae44-395cdfbe156e.png)   

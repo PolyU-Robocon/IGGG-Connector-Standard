@@ -30,10 +30,6 @@ The pinout follow the CANopen standard CiA-DS303-1
 ### Recommended Symbol and Connection
 ![image](https://user-images.githubusercontent.com/45313904/126659219-d5840bf2-c0bf-42d5-8317-7306908a9d56.png)
 
-## CAN Bus to AMTSeries (IGGG-cAN-AMT102-V)
-![AMT102](https://user-images.githubusercontent.com/77326918/126895644-7e0f812e-15d7-4f9d-a44f-4a4bb5efa7a7.png)
-Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
-
 ## CAN Bus to VESC4 (IGGG-cAN-VESC4)
 ![image](https://user-images.githubusercontent.com/45313904/125818491-0afa460d-7039-48d4-ae44-395cdfbe156e.png)   
 ***Normally***, JST PH with 2.0mm pitch 4 pin Connector is used     
@@ -45,6 +41,22 @@ Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
 | 2          | White(Brown) | Pair 2       | CAN High | CAN bus CAN high signal |
 | 3          | Red(Blue)    | Pair 2       | CAN Low  | CAN bus CAN low signal  |
 | 4          | Black(Black) | Pair 1       | GND      | GND, up to you          |
+
+## CAN Bus to AMTSeries (IGGG-cAN-AMT102-V)
+![AMT102](https://user-images.githubusercontent.com/77326918/126895644-7e0f812e-15d7-4f9d-a44f-4a4bb5efa7a7.png)
+Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
+
+## J17 4-Pin Optional CAN Header Pin (IGGG-cAN-NX-J17)
+![image](https://user-images.githubusercontent.com/45313904/128248179-b5db5266-6994-408d-86f9-42214377a33e.png)   
+4-Pin 2.54 Pitch
+| Bus   | Pin | Pin Name | Module Pin | Description      | Note        |
+|-------|-----|----------|------------|------------------|-------------|
+| CAN   | 1   | CAN_TX   | 145        | CAN High         | 3.3V Output |
+| CAN   | 2   | Orange   | 143        | CAN Low          | 3.3V Input  |
+| Power | 3   | GND      | -          | Ground           | Ground      |
+| Power | 4   | 3.3V     | -          | Main 3.3V supply | Power       |
+
+[More About NX Pinout](https://github.com/PolyU-Robocon/IGGG-Connector-Standard/blob/main/Jetson/Xavier-NX/readme.md)
 
 ## Note: About CAN Bus Signal
 ![image](https://user-images.githubusercontent.com/45313904/117434119-da593c80-af5e-11eb-868e-ab50f1c3080a.png)

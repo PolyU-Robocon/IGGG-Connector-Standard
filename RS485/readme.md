@@ -8,12 +8,12 @@ Default Buad Rate is assume to be 9600, otherwise please state it cleary and do 
 ![image](https://user-images.githubusercontent.com/45313904/126560117-48932c1a-aabe-4eb3-ab85-afe01431de24.png)
 | Bus     | Pin | Cable Color    | Description            |
 |---------|-----|----------------|------------------------|
-| RS485_1 | 1   | Orange & White | RS-486 B               |
+| RS485_1 | 1   | Orange & White | RS-485 B               |
 | RS485_1 | 2   | Orange         | RS-485 A               |
-| GPIO    | 3   | Green & White  | GPIO Pin 0             |
+| GPIO    | 3   | Green & White  | GPIO Pin B             |
 | DC+     | 4   | Blue           | VCC_H(24~12VDC)        |
 | DC+     | 5   | Blue & White   | VCC(reference to PGND) |
-| GPIO    | 6   | Green          | GPIO Pin 1             |
+| GPIO    | 6   | Green          | GPIO Pin A             |
 | DC-     | 7   | Brown & White  | PGND                   |
 | DC-     | 8   | Brown          | PGND                   |
 

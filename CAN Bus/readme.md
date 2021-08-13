@@ -29,6 +29,22 @@ The pinout follow the CANopen standard CiA-DS303-1
 | Power | 8   | Brown          | (CAN_V+)    | Do not used this as V+ |
 ### Recommended Symbol and Connection
 ![image](https://user-images.githubusercontent.com/45313904/126659219-d5840bf2-c0bf-42d5-8317-7306908a9d56.png)
+### IGGG-cAN-RJ45 Types
+
+#### Type A Devices(IGGG-cAN-RJ45-A)
+(follows CiA-DS303-1)   
+pin 8 as VCC(V+/5V). `However if user on99 like ... will gg`   
+
+#### Type B Devices(IGGG-cAN-RJ45-B)
+(follows IGGG Recommended Connection)   
+pin 5 as VCC(5V)
+
+#### Type C Devices(IGGG-cAN-RJ45-C)
+User can manual switch between Tpye A and Tpye B through button or programe 
+
+#### Type D Devices(IGGG-cAN-RJ45-D)
+The system will automatic switch between Tpye A and Tpye B
+(Optional) allow user to switch to type C
 
 ## CAN Bus to VESC4 (IGGG-cAN-VESC4)
 ![image](https://user-images.githubusercontent.com/45313904/125818491-0afa460d-7039-48d4-ae44-395cdfbe156e.png)   

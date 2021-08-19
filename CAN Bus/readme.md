@@ -53,10 +53,10 @@ The system will automatic switch between Tpye A and Tpye B
 ![image](https://user-images.githubusercontent.com/45313904/117435311-4c7e5100-af60-11eb-908c-285dd6f57c5d.png)
 | Pin Number | Cable Color  | Twisted Pair | Signal   | Description             |
 |------------|--------------|--------------|----------|-------------------------|
-| 1          | Yellow(Red)  | Pair 1       | +5V DC   | 5VDC, up to you         |
-| 2          | White(Brown) | Pair 2       | CAN High | CAN bus CAN high signal |
-| 3          | Red(Blue)    | Pair 2       | CAN Low  | CAN bus CAN low signal  |
-| 4          | Black(Black) | Pair 1       | GND      | GND, up to you          |
+| 4          | Yellow(Red)  | Pair 1       | +5V DC   | 5VDC, up to you         |
+| 3          | White(Brown) | Pair 2       | CAN High | CAN bus CAN high signal |
+| 2          | Red(Blue)    | Pair 2       | CAN Low  | CAN bus CAN low signal  |
+| 1          | Black(Black) | Pair 1       | GND      | GND, up to you          |
 
 ## CAN Bus to AMTSeries (IGGG-cAN-AMT102-V)
 ![AMT102](https://user-images.githubusercontent.com/77326918/126895644-7e0f812e-15d7-4f9d-a44f-4a4bb5efa7a7.png)

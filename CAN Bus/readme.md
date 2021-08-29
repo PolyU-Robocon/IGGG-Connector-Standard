@@ -78,3 +78,8 @@ Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
 ![image](https://user-images.githubusercontent.com/45313904/117434119-da593c80-af5e-11eb-868e-ab50f1c3080a.png)
 > In a low speed CAN ***each device*** should have a ***120 Ohm resistor***.    
 > In a ***high speed*** CAN-Bus (>100Kbit, used in automotive) ***only each end of the main loop*** should have a ***120 Ohm resistor***
+> The common mode choke is to reduce common mode noise. Usually automotive companies define a list of allowed types.
+> Approved for 500 kbit/s:
+> TDK ACT45C-101-2P-TL000, ACT1210-101-2P-TL00
+> Approved for up to 5 Mbit/s:
+> TDK ACT1210R-101-2P, ACT45B-101-2P-TL003, ACT45B-101-2P-TL002 Epcos B82789-C0104-N002, B82789-C0104-N001, B82789-C0104-H052, B82789-C0104-H002, B82789-C0104-H001

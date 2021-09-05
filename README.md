@@ -1,3 +1,5 @@
+![IgggConnector](https://user-images.githubusercontent.com/45313904/132121245-501a313a-c6ea-4bf8-9848-5b2760ba4030.png)
+
 # IGGG-Connector-Standard
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 

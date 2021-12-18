@@ -23,6 +23,8 @@ Please noted that if you less than 12V you **are not recommend** to XT60
 **Female is for Power power receiver side a.k.a. input**
 ### XT60 Male
 **Male is for Power power supplier side a.k.a. output**
+### XT90-PM
+![image](https://user-images.githubusercontent.com/45313904/146653489-8e680993-5134-4626-be9b-7c0e4d9edb5e.png)
 
 ## EPOS Power(IGGG-pW-EPOS)
 ![image](https://user-images.githubusercontent.com/45313904/114552117-d0615800-9c96-11eb-9c25-5cab59992c48.png)

@@ -24,7 +24,7 @@ Please noted that if you less than 12V you **are not recommend** to XT60
 ### XT60 Male
 **Male is for Power power supplier side a.k.a. output**
 ### XT90-PM
-![image](https://user-images.githubusercontent.com/45313904/146653489-8e680993-5134-4626-be9b-7c0e4d9edb5e.png)
+![image](https://user-images.githubusercontent.com/45313904/146653489-8e680993-5134-4626-be9b-7c0e4d9edb5e.png)  
 For some high application, XT90 will be used when XT60 can not meet the requierment.
 However, the use XT90 should be reduce if possible due to wieght and cost consideration 
 

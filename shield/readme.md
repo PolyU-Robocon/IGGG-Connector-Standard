@@ -8,3 +8,5 @@ Traditionally there existed a rule of thumb to ground only the source end of the
 ![image](https://user-images.githubusercontent.com/45313904/126632586-167f1b54-c777-44e4-aca7-98623d5670b6.png)
 
 Ground loop or earth loop occurs when two points of a circuit are intended to have the same ground reference potential but instead have a different potential between them
+## Perfer Soultion 
+Do not Connect GND to Shield/Eath. ANd Connect *Shield* TO *Chassis GND*

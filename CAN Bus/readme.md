@@ -58,10 +58,6 @@ The system will automatic switch between Tpye A and Tpye B
 | 2          | Red(Blue)    | Pair 2       | CAN Low  | CAN bus CAN low signal  |
 | 1          | Black(Black) | Pair 1       | GND      | GND, up to you          |
 
-## CAN Bus to AMTSeries (IGGG-cAN-AMT102-V)
-![AMT102](https://user-images.githubusercontent.com/77326918/126895644-7e0f812e-15d7-4f9d-a44f-4a4bb5efa7a7.png)
-Connectors used: Molex 50-57-9405 Housing, Molex 16-02-0086 Terminals
-
 ## J17 4-Pin Optional CAN Header Pin (IGGG-cAN-NX-J17)
 ![image](https://user-images.githubusercontent.com/45313904/128248179-b5db5266-6994-408d-86f9-42214377a33e.png)   
 4-Pin 2.54 Pitch

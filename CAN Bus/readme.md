@@ -46,7 +46,7 @@ User can manual switch between Tpye A and Tpye B through button or programe
 The system will automatic switch between Tpye A and Tpye B
 (Optional) allow user to switch to type C
 
-## CAN Bus to VESC4 (IGGG-cAN-VESC4)
+## CAN Bus to VESC4 (IGGG-cAN-VESC4)(Added in altium lib)
 ![image](https://user-images.githubusercontent.com/45313904/125818491-0afa460d-7039-48d4-ae44-395cdfbe156e.png)   
 ***Normally***, JST PH with 2.0mm pitch 4 pin Connector is used     
 ![image](https://user-images.githubusercontent.com/45313904/117435003-f0b3c800-af5f-11eb-9364-77ea9db8444c.png)

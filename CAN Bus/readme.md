@@ -43,7 +43,7 @@ pin 5 as VCC(5V)
 User can manual switch between Tpye A and Tpye B through button or programe 
 
 #### Type D Devices(IGGG-cAN-RJ45-D)
-The system will automatic switch between Tpye A and Tpye B
+The system will automatic switch between Tpye A and Tpye B   
 (Optional) allow user to switch to type C
 
 ## CAN Bus to VESC4 (IGGG-cAN-VESC4)(Added in altium lib)

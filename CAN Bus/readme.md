@@ -82,3 +82,30 @@ The system will automatic switch between Tpye A and Tpye B
 > TDK ACT45C-101-2P-TL000, ACT1210-101-2P-TL00    
 > Approved for up to 5 Mbit/s:    
 > TDK ACT1210R-101-2P, ACT45B-101-2P-TL003, ACT45B-101-2P-TL002 Epcos B82789-C0104-N002, B82789-C0104-N001, B82789-C0104-H052, B82789-C0104-H002, B82789-C0104-H001   
+
+## Note: CANopen
+![image](https://user-images.githubusercontent.com/45313904/189868579-113a2414-ff0f-4b1b-9e17-adbfb045f985.png)
+![image](https://user-images.githubusercontent.com/45313904/189869109-1805f1de-746f-4baf-85a7-e09780b4f417.png)
+### Datafrane of CANopen
+![image](https://user-images.githubusercontent.com/45313904/189872375-f94f6e41-804a-47bd-bf6f-805a6f9db065.png)
+
+### CANopen Communication Model 
+3 Type:
+* Master-Slave
+* Server-Client
+* Productor-Consumer
+#### Master-Slave
+![image](https://user-images.githubusercontent.com/45313904/189870135-8b798703-80e9-4314-8bfa-806043f59b80.png)
+Number of Slave 0 to 127    
+Note1: Node id 0 is reserved for master
+Note2: Max Node id is `127` (0x7F)
+#### Server-Client
+![image](https://user-images.githubusercontent.com/45313904/189871148-77b96950-12e3-442a-9cb1-35682edc1ce6.png)
+CLient send a data request to server    
+Server reply with data requested    
+#### Productor-Consumer
+![image](https://user-images.githubusercontent.com/45313904/189871475-ff9a7a25-85ea-4900-b0fe-215fd34ca28a.png)
+### Ferther Readering on the CANopen
+[CANopen Explained - A Simple Intro (2020)](https://www.youtube.com/watch?v=DlbkWryzJqg)
+
+
